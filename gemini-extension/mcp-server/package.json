@@ -1,0 +1,20 @@
+{
+  "name": "tob-skills-marketplace-server",
+  "version": "1.0.0",
+  "description": "MCP server for listing and installing TOB marketplace skills",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "skills-marketplace-server": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1",
+    "zod": "^3.23.8"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

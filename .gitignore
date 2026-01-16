@@ -28,3 +28,17 @@ build/
 
 # Local plugin cache
 .claude/
+
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# gemini-extension specific
+/gemini-extension/node_modules/
+

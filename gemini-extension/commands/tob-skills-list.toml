@@ -1,0 +1,2 @@
+description = "List all available skills in the TOB skills marketplace"
+prompt = "List all available skills using the `list_marketplace_skills` tool."

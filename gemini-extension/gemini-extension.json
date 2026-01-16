@@ -1,0 +1,11 @@
+{
+  "name": "tob-skills-marketplace",
+  "version": "1.0.0",
+  "description": "Browse and install skills from the TOB skills marketplace.",
+  "mcpServers": {
+    "manager": {
+      "command": "node",
+      "args": ["${extensionPath}/mcp-server/index.js"]
+    }
+  }
+}

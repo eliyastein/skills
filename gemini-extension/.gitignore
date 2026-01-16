@@ -1,0 +1,47 @@
+# Node
+node_modules/
+npm-debug.log*
+.yarn-integrity
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state
+.pnp.*
+.pnp
+
+# Lockfiles (optional if you want to keep in repo)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Misc
+coverage/
+coverage-final.json
+.nyc_output/
+

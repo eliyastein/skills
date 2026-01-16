@@ -1,0 +1,2 @@
+description = "Install a skill from the TOB skills marketplace"
+prompt = "Install the skill named '{{args}}' using the `install_marketplace_skill` tool."
